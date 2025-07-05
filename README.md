@@ -58,7 +58,6 @@ Se aplicaron validaciones usando DTOs y Pipes de NestJS.
 
 👤 Autor
 Faber Serna
-GitHub: [enlace próximamente]
 
 📌 Estado del proyecto
 🟡 Primera fase completada
